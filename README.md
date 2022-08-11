@@ -16,9 +16,15 @@ Here are some ideas to get you started:
 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Do&nbsp;Kyung&nbsp;Lee&fontSize=90&color=#e6e6fa)       
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Do&nbsp;Kyung&nbsp;Lee&fontSize=70&color=#e6e6fa)       
        
 - 🔭 I’m currently working on Algorithm and HTML
 - 🌱 I’m currently learning Algorithm
 - 📫 How to reach me: dbzoseh2rl23@gmail.com
 
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/[아이콘 이름]-[배경색]?style=flat-square&logo=[내용]&logoColor=white"/>
+<img src="https://img.shields.io/badge/[아이콘 이름]-[배경색]?style=flat-square&logo=[내용]&logoColor=white"/>
+<img src="https://img.shields.io/badge/[아이콘 이름]-[배경색]?style=flat-square&logo=[내용]&logoColor=white"/>
+<img src="https://img.shields.io/badge/[아이콘 이름]-[배경색]?style=flat-square&logo=[내용]&logoColor=white"/>
+<img src="https://img.shields.io/badge/[아이콘 이름]-[배경색]?style=flat-square&logo=[내용]&logoColor=white"/>
