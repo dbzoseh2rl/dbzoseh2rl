@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Algorithm
 - 📫 How to reach me: dbzoseh2rl23@gmail.com
 
-<h3 align="center"> SNS List</h3>
+<h3 align="center">:fire: SNS List:fire:</h3>
 <p align = "center">
         <p align = "center"> Naver Blog = https://blog.naver.com/dbzoseh2rl123</p>
         <p align = "center"> Tstory = https://dokyung123.tistory.com/</p>
