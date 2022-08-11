@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Algorithm
 - 📫 How to reach me: dbzoseh2rl23@gmail.com
 
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=simpleiconsPython&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
