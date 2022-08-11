@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dbzoseh2rl23@gmail.com
 
 <h3 align="center"> SNS List</h3>
-<p algin = "center">
+<p align = "center">
         <p> Naver Blog = https://blog.naver.com/dbzoseh2rl123</p>
         <p algin="center"> Tstory = https://dokyung123.tistory.com/</p>
         <p algin="center"> Git Hube = https://github.com/dbzoseh2rl </p>
