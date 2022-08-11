@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbzoseh2rl&show_icons=true&theme=dark) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbzoseh2rl)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={ehrud25})](https://solved.ac/{handle})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
