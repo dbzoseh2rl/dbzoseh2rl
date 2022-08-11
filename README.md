@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Algorithm
 - 📫 How to reach me: dbzoseh2rl23@gmail.com
 
+<h3 align="center">![image](https://user-images.githubusercontent.com/91397068/184106588-c3453269-cf38-4009-8966-dd916f7a45bb.png)SNS List</h3>
+
+
 <h3 align="center">Tech Stack </h3>
 <h4 align="center">Tech that I've used at least once</h4>
 
