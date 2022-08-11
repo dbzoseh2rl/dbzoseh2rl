@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">SNS List</h3>
 <h3 algin="center"> Naver Blog = https://blog.naver.com/dbzoseh2rl123</h3>
-<h3 algin="center"> Tstory = [https://blog.naver.com/dbzoseh2rl123](https://dokyung123.tistory.com/)</h3>
+<h3 algin="center"> Tstory = https://blog.naver.com/dbzoseh2rl123(https://dokyung123.tistory.com/)</h3>
 <h3 algin="center"> Git Hube = https://github.com/dbzoseh2rl </h3>
 
 
