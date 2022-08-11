@@ -29,7 +29,8 @@
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp
 </p>
-<hr></hr>
+<hr>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehrud25)](https://solved.ac/ehrud25/) <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbzoseh2rl&show_icons=true&theme=dark) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbzoseh2rl)](https://github.com/anuraghazra/github-readme-stats)<br>
