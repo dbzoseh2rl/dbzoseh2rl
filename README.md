@@ -1,26 +1,12 @@
-### Hi there 👋
-
-<!--
-**dbzoseh2rl/dbzoseh2rl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-        "idx": 27,
-        "color": "42564F",
-        "text": "C0EB6A",
-        "textBg": "f7f5f5
-
--->
+### Welcome!! 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Do&nbsp;Kyung&nbsp;Lee&fontSize=70&color=#e6e6fa)       
        
 - 🔭 I’m currently working on Algorithm and HTML
 - 🌱 I’m currently learning Algorithm
 - 📫 How to reach me: dbzoseh2rl23@gmail.com
+- ⚡ Fun fact: ...
+<hr>
 
 <h3 align="center">:fire: SNS List:fire:</h3>
 <p align = "center">
@@ -28,6 +14,7 @@ Here are some ideas to get you started:
         <p align = "center">:link: Tstory = https://dokyung123.tistory.com/</p>
         <p align = "center">:link: Git Hube = https://github.com/dbzoseh2rl </p>
 </p>
+<hr>
 
 <h3 align="center">:computer:Tech Stack :computer:</h3>
 <h4 align="center">Tech that I've used at least once</h4>
@@ -42,7 +29,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp
 </p>
-
+<hr>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehrud25)](https://solved.ac/ehrud25/) <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbzoseh2rl&show_icons=true&theme=dark) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbzoseh2rl)](https://github.com/anuraghazra/github-readme-stats)<br>
