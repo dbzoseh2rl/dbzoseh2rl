@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbzoseh2rl&show_icons=true&theme=dark)
+<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbzoseh2rl&show_icons=true&theme=dark)</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbzoseh2rl)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
