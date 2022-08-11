@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=purple&height=300&section=header&text=Do&nbsp;Kyung&nbsp;Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#B464EB&height=300&section=header&text=Do&nbsp;Kyung&nbsp;Lee&fontSize=90)
 
 - 🔭 I’m currently working on Algorithm and HTML
 - 🌱 I’m currently learning Algorithm
