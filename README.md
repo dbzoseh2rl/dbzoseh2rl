@@ -22,9 +22,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Algorithm
 - 📫 How to reach me: dbzoseh2rl23@gmail.com
 
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=HTML&logoColor=white"/>
-<img src="https://img.shields.io/badge/[아이콘 이름]-[배경색]?style=flat-square&logo=[내용]&logoColor=white"/>
-<img src="https://img.shields.io/badge/[아이콘 이름]-[배경색]?style=flat-square&logo=[내용]&logoColor=white"/>
-<img src="https://img.shields.io/badge/[아이콘 이름]-[배경색]?style=flat-square&logo=[내용]&logoColor=white"/>
-<img src="https://img.shields.io/badge/[아이콘 이름]-[배경색]?style=flat-square&logo=[내용]&logoColor=white"/>
-<img src="https://img.shields.io/badge/[아이콘 이름]-[배경색]?style=flat-square&logo=[내용]&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=simpleiconsPython&logoColor=white"/></a>&nbsp 
