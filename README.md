@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color="#42564F"&height=300&section=header&text=Do&nbsp;Kyung&nbsp;Lee&fontSize=90)       
+![header](https://capsule-render.vercel.app/api?type=waving&idx=27&color=#42564F&text=COEB6A&height=300&section=header&text=Do&nbsp;Kyung&nbsp;Lee&fontSize=90)       
         "idx": 27,
         "color": "42564F",
         "text": "C0EB6A",
