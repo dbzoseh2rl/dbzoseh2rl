@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Algorithm
 - 📫 How to reach me: dbzoseh2rl23@gmail.com
 
-<h3 align="center">SNS List</h3>
-<h3 algin="center"> Naver Blog = https://blog.naver.com/dbzoseh2rl123</h3>
-<h3 algin="center"> Tstory = https://dokyung123.tistory.com/</h3>
-<h3 algin="center"> Git Hube = https://github.com/dbzoseh2rl </h3>
-
+<h3 align="center"> SNS List</h3>
+<p algin = "center">
+        <p algin="center"> Naver Blog = https://blog.naver.com/dbzoseh2rl123</p>
+        <p algin="center"> Tstory = https://dokyung123.tistory.com/</p>
+        <p algin="center"> Git Hube = https://github.com/dbzoseh2rl </p>
+</p>
 
 <h3 align="center">Tech Stack </h3>
 <h4 align="center">Tech that I've used at least once</h4>
