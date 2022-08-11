@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=#e6e6fa&height=300&section=header&text=Do&nbsp;Kyung&nbsp;Lee&fontSize=90)       
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Do&nbsp;Kyung&nbsp;Lee&fontSize=90&color=#e6e6fa)       
        
 - 🔭 I’m currently working on Algorithm and HTML
 - 🌱 I’m currently learning Algorithm
