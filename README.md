@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">:fire: SNS List:fire:</h3>
 <p align = "center">
-        <p align = "center"> Naver Blog = https://blog.naver.com/dbzoseh2rl123</p>
-        <p align = "center"> Tstory = https://dokyung123.tistory.com/</p>
-        <p align = "center"> Git Hube = https://github.com/dbzoseh2rl </p>
+        <p align = "center">:link: Naver Blog = https://blog.naver.com/dbzoseh2rl123</p>
+        <p align = "center">:link: Tstory = https://dokyung123.tistory.com/</p>
+        <p align = "center">:link: Git Hube = https://github.com/dbzoseh2rl </p>
 </p>
 
 <h3 align="center">:computer:Tech Stack :computer:</h3>
