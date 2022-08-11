@@ -43,5 +43,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidbzoseh2rlanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidbzoseh2rlanuraghazra&show_icons=true&theme=dark)
 
