@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 <h4 algin="center">Tech that I've used at least once</h4>
 
 <p algin = "center">
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
+</p>
