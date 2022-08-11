@@ -29,7 +29,7 @@ Here are some ideas to get you started:
         <p align = "center"> Git Hube = https://github.com/dbzoseh2rl </p>
 </p>
 
-<h3 align="center">Tech Stack </h3>
+<h3 align="center">:computer:Tech Stack :computer:</h3>
 <h4 align="center">Tech that I've used at least once</h4>
 
 <p align = "center">
