@@ -28,6 +28,7 @@
         <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp 
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp#
 </p>
 
 
