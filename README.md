@@ -4,7 +4,7 @@
        
 - 🔭 I’m currently working on Algorithm and HTML
 - 🌱 I’m currently learning Algorithm
-- 📫 How to reach me: dbzoseh2rl23@gmail.com
+- 📫 How to reach me: leedokyung933@gmail.com
 - ⚡ Fun fact: ...
 <hr>
 
