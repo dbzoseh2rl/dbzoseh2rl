@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on Algorithm and HTML
 - 🌱 I’m currently learning Algorithm
 - 📫 How to reach me: leedokyung933@gmail.com
-- ⚡ Fun fact: ...
 <hr>
 
 <h3 align="center">:fire: SNS List:fire:</h3>
