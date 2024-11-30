@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Do&nbsp;Kyung&nbsp;Lee&fontSize=70&color=#e6e6fa)       
        
-- 🔭 I’m currently working on Algorithm and HTML
+- 🔭 I’m currently working on Algorithm and Spring
 - 🌱 I’m currently learning Algorithm
 - 📫 How to reach me: leedokyung933@gmail.com
 <hr>
