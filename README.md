@@ -11,6 +11,7 @@
 <p align = "center">
         <p align = "center">:link: Naver Blog = https://blog.naver.com/dbzoseh2rl123</p>
         <p align = "center">:link: Tstory = https://dokyung123.tistory.com/</p>
+        <p align = "center">:link: Velog = https://github.com/dbzoseh2rl </p>
         <p align = "center">:link: Githube = https://github.com/dbzoseh2rl </p>
 </p>
 <hr>
