@@ -40,6 +40,6 @@
 </p>
 
 <p align="left">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehrud25" style="display: inline-block; margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbzoseh2rl" style="display: inline-block;" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehrud25" style="display: inline-block; margin-right: 20px; width: 300px; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbzoseh2rl" style="display: inline-block; width: 300px; height: auto;" />
 </p>
