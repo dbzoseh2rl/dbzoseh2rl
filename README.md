@@ -8,7 +8,7 @@
 - 🌱 **2024.11.04 ~ 2025.02.16**: Kakao x goorm Deep Dive 2기
 
 <hr>
-<div align="left" style="width: 50%; float: left;">
+<div align="left">
 ### 🛠 IDE
     <p>
         <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
@@ -37,11 +37,10 @@
 </p>
 </div>
 
-<div align="right" style="width: 50%; float: right;">
+<div align="right">
     <p>
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehrud25" style="display: inline-block; margin-right: 20px; width: 300px; height: auto;" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbzoseh2rl" style="display: inline-block; width: 300px; height: auto;" />
     </p>
 </div>
 
-<div style="clear: both;"></div>
