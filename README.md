@@ -1,6 +1,10 @@
 ### Welcome!! 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Do&nbsp;Kyung&nbsp;Lee&fontSize=70&color=#e6e6fa)       
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Do&nbsp;Kyung&nbsp;Lee&fontSize=70&color=#e6e6fa)     
+
+<p align="center">
+  <img src="https://github.com/dbzoseh2rl/Toy-project/raw/main/ocean.gif" width="1000"/>
+</p>
 
 - 🔭 **2025.03.04 ~ ing**: 제2연구소 - BE개발팀, TRIZN Inc.
 - 🌱 **2024.11.04 ~ 2025.02.16**: Kakao x goorm Deep Dive 2기
@@ -35,19 +39,11 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github.com/dbzoseh2rl/Toy-project/raw/main/ocean.gif" width="600"/>
-</p>
-
----
-
-<p align="center">
+<p align="left">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehrud25" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=dbzoseh2rl&show_icons=true&theme=dark" />
 </p>
 
