@@ -1,9 +1,7 @@
 ### Welcome!! 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Do&nbsp;Kyung&nbsp;Lee&fontSize=70&color=#e6e6fa)     
-
 <p align="center">
-  <img src="https://github.com/dbzoseh2rl/Toy-project/raw/main/ocean.gif" width="1000"/>
+  <img src="https://github.com/dbzoseh2rl/Toy-project/raw/main/ocean.gif" width="800"/>
 </p>
 
 - 🔭 **2025.03.04 ~ ing**: 제2연구소 - BE개발팀, TRIZN Inc.
