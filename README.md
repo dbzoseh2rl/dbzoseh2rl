@@ -8,12 +8,15 @@
 - 🌱 **2024.11.04 ~ 2025.02.16**: Kakao x goorm Deep Dive 2기
 
 <hr>
-<div align="left">
+<table>
+  <tr>
+    <td align="left" width="50%">
+
 ### 🛠 IDE
-    <p>
-        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-    </p>
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+</p>
 
 ### 🔧 Tool
 <p>
@@ -35,12 +38,12 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
-</div>
-
-<div align="right">
-    <p>
+    </td>
+    <td align="right" width="50%">
+      <p>
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehrud25" style="display: inline-block; margin-right: 20px; width: 300px; height: auto;" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbzoseh2rl" style="display: inline-block; width: 300px; height: auto;" />
-    </p>
-</div>
-
+      </p>
+    </td>
+  </tr>
+</table>
