@@ -41,6 +41,5 @@
 
 <p align="left">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehrud25" style="display: inline-block; margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dbzoseh2rl&show_icons=true&theme=dark" style="display: inline-block; margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbzoseh2rl" style="display: inline-block;" />
 </p>
