@@ -8,7 +8,6 @@
 - 🌱 **2024.11.04 ~ 2025.02.16**: Kakao x goorm Deep Dive 2기
 
 <hr>
-
 ### 🛠 IDE  
 <p>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
@@ -17,7 +16,6 @@
 
 ### 🔧 Tool  
 <p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
@@ -37,7 +35,7 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
 
-<p align="left">
+<p align="right">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehrud25" style="display: inline-block; margin-right: 20px; width: 300px; height: auto;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbzoseh2rl" style="display: inline-block; width: 300px; height: auto;" />
 </p>
