@@ -2,9 +2,8 @@
 <p align="center">
   <img src="https://github.com/dbzoseh2rl/Toy-project/raw/main/ocean.gif" width="900"/>
 </p>
-### ★ History
-- <img src="https://simpleicons.org/icons/intellijidea.svg" alt="IntelliJ IDEA" width="16" height="16" /> **2025.03.04 ~ ing**: 제2연구소 - BE개발팀, TRIZN Inc.
-- <img src="https://simpleicons.org/icons/kakao.svg" alt="Kakao" width="16" height="16" /> **2024.11.04 ~ 2025.02.16**: Kakao x goorm Deep Dive 2기
+- 🔭 **2025.03.04 ~ ing**: 제2연구소 - BE개발팀, TRIZN Inc.
+- 🌱 **2024.11.04 ~ 2025.02.16**: Kakao x goorm Deep Dive 2기
 
 <hr>
 <table>
