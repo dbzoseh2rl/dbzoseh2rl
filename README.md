@@ -1,5 +1,5 @@
 ### Welcome!! 👋
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Lee%20DO%20kyung&fontSize=70&color=#e6e6fa&width=800)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Lee%20Do%20kyung&fontSize=70&color=#e6e6fa&width=800)
 <p align="center">
   <img src="https://github.com/dbzoseh2rl/Toy-project/raw/main/ocean.gif" width="800"/>
 </p>
