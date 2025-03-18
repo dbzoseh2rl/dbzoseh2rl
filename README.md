@@ -2,8 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Do&nbsp;Kyung&nbsp;Lee&fontSize=70&color=#e6e6fa)       
 
-- 🔭 2025.03.04 ~ ing .:  제2연구소 -BE개발팀, TRIZN Inc.
-- 🌱 2024.11.04.~2025.02.16.: Kakao x goorm Deep Dive 2기
+- 🔭 **2025.03.04 ~ ing**: 제2연구소 - BE개발팀, TRIZN Inc.
+- 🌱 **2024.11.04 ~ 2025.02.16**: Kakao x goorm Deep Dive 2기
+
 <hr>
 
 ### 🛠 IDE  
