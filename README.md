@@ -3,7 +3,7 @@
   <img src="https://github.com/dbzoseh2rl/Toy-project/raw/main/ocean.gif" width="900"/>
 </p>
 
-- 🔭 **2025.03.04 ~ ing**:  R&D Center-2Laboratory-BE Developer, TRIZN Inc.
+- 🔭 **2025.03.04 ~ 2026.03.31**:  R&D Center-2Laboratory-BE Developer, TRIZN Inc.
 - 🌱 **2024.11.04 ~ 2025.02.16**: Kakao x goorm Deep Dive 2기
 
 <hr>
