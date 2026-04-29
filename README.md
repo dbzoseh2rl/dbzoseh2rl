@@ -14,10 +14,10 @@
 - 🐤 _2025.03.04 ~ ing .: R&D센터 - 제2연구소 BE개발팀_
 
   - **Spring Boot 기반 협업툴 'TIM' 백엔드 시스템 구축**
-  - JWT 기반 인증/인가 및 RBAC 권한 시스템 설계
-  - 전역 예외 처리 및 API 응답 표준화
-  - 통합 검색 및 파일 관리 시스템 구축
-  - SpringDoc(OpenAPI) 기반 API 문서 자동화
+    - JWT 기반 인증/인가 및 RBAC 권한 시스템 설계
+    - 전역 예외 처리 및 API 응답 표준화
+    - 통합 검색 및 파일 관리 시스템 구축
+    - SpringDoc(OpenAPI) 기반 API 문서 자동화
 
   - **TrizN Controller (네트워크 장비 제어 시스템)**
     - Node.js 기반 MSA 구조 설계
