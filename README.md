@@ -30,7 +30,7 @@
     - 반복 로직 및 보일러플레이트 코드 자동 생성으로 개발 속도 개선
     - API 설계 및 테스트 코드 작성 시 AI 기반 보조 활용
 
-- 🐣 2024.11.04.~2025.02.16.: Kakao x goorm Deep Dive
+- 🐣 _2024.11.04.~2025.02.16.: Kakao x goorm Deep Dive
 <br/>
     </td>
     <td width="45%" valign="top">
