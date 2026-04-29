@@ -24,11 +24,10 @@
     - RabbitMQ 기반 RPC 및 이벤트 처리
     - Worker Threads 활용 서버 안정성 개선
     - Web CLI 기반 장비 제어 시스템 개발
-
-  - **AI 활용 개발 생산성 향상**
-    - Cursor 기반 AI 코드 자동완성 및 리팩토링 활용
-    - 반복 로직 및 보일러플레이트 코드 자동 생성으로 개발 속도 개선
-    - API 설계 및 테스트 코드 작성 시 AI 기반 보조 활용
+    - 다중 네트워크 장비 대상 명령어 동시 실행 및 결과 처리 기능 구현
+    - Python(FastAPI) 기반 네트워크 제어 에이전트 개발
+    - Netmiko를 활용한 SSH 장비 접속 및 명령 실행 자동화
+    - TextFSM 기반 CLI 출력 데이터 파싱 및 JSON 구조화 처리
 
 - 🐣 _2024.11.04. ~ 2025.02.16 .: Kakao x goorm Deep Dive_
 <br/>
