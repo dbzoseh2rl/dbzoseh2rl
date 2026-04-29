@@ -7,9 +7,11 @@
   <tr>
     <td width="55%" valign="top">
 
-#### 💼 TRIZN Inc.
+#### 💼 EXPERIENCE
 
-- 🚀 _2025.03.04 ~ ing : R&D센터 - 제2연구소 BE개발팀_
+- 🐥 _2026.04.27 ~ ing .: 경영혁신지원팀 - 개발자, EXICON Inc._
+  
+- 🐤 _2025.03.04 ~ ing : R&D센터 - 제2연구소 BE개발팀_
 
   - **Spring Boot 기반 협업툴 'TIM' 백엔드 시스템 구축**
   - JWT 기반 인증/인가 및 RBAC 권한 시스템 설계
@@ -28,22 +30,8 @@
     - 반복 로직 및 보일러플레이트 코드 자동 생성으로 개발 속도 개선
     - API 설계 및 테스트 코드 작성 시 AI 기반 보조 활용
 
+- 🐣 2024.11.04.~2025.02.16.: Kakao x goorm Deep Dive 
 <br/>
-
-#### 🎓 Education
-
-- 🎓 계명대학교 컴퓨터공학과 (2023 ~ 2025)
-- 🎓 경일대학교 컴퓨터공학과 (2019 ~ 2023)
-- 🪖 대한민국 해병대 (2020 ~ 2021)
-
-<br/>
-
-#### 🔗 Links
-
-- GitHub: https://github.com/dbzoseh2rl
-- Blog: https://blog.naver.com/dbzoseh2rl123
-- Tistory: https://dokyung123.tistory.com
-- Velog: https://velog.io/@dbzoseh2rl
 
     </td>
     <td width="45%" valign="top">
@@ -70,18 +58,21 @@
 <img src="https://img.shields.io/badge/JPA-59666C?style=flat_square&logo=Hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/MyBatis-000000?style=flat_square&logoColor=white">
 
-**🌐 Infra & DevOps**  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=Linux&logoColor=black">
+**🌐 Infra & DevOps**   
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat_square&logo=AmazonAWS&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat_square&logo=Nginx&logoColor=white">
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat_square&logo=RabbitMQ&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat_square&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat_square&logo=Jenkins&logoColor=white">
+
 
 <br/>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbzoseh2rl" />
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbzoseh2rl&show_icons=true&theme=tokyonight" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbzoseh2rl&layout=compact&theme=tokyonight" />
 </p>
   </tr>
