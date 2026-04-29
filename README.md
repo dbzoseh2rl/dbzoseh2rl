@@ -3,47 +3,82 @@
   <img src="https://github.com/dbzoseh2rl/Toy-project/raw/main/ocean.gif" width="900"/>
 </p>
 
-- 🔭 **2026.04.27 ~ ing:  R&D Center Developer, Exicon Inc.
-- 🔭 **2025.03.04 ~ 2026.03.31**:  R&D Center-2Laboratory-BE Developer, TRIZN Inc.
-- 🌱 **2024.11.04 ~ 2025.02.16**: Kakao x goorm Deep Dive 2기
-
-<hr>
-<table>
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td align="left" width="50%">
+    <td width="55%" valign="top">
 
-### 🛠 IDE
-<p>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-</p>
+#### 💼 TRIZN Inc.
 
-### 🔧 Tool
-<p>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=for-the-badge&logo=Microsoft Teams&logoColor=white"/>
-</p>
+- 🚀 _2025.03.04 ~ ing : R&D센터 - 제2연구소 BE개발팀_
 
-### 🔥 Stack
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
+  - **Spring Boot 기반 협업툴 'TIM' 백엔드 시스템 구축**
+  - JWT 기반 인증/인가 및 RBAC 권한 시스템 설계
+  - 전역 예외 처리 및 API 응답 표준화
+  - 통합 검색 및 파일 관리 시스템 구축
+  - SpringDoc(OpenAPI) 기반 API 문서 자동화
+
+  - **TrizN Controller (네트워크 장비 제어 시스템)**
+    - Node.js 기반 MSA 구조 설계
+    - RabbitMQ 기반 RPC 및 이벤트 처리
+    - Worker Threads 활용 서버 안정성 개선
+    - Web CLI 기반 장비 제어 시스템 개발
+
+  - **AI 활용 개발 생산성 향상**
+    - Cursor 기반 AI 코드 자동완성 및 리팩토링 활용
+    - 반복 로직 및 보일러플레이트 코드 자동 생성으로 개발 속도 개선
+    - API 설계 및 테스트 코드 작성 시 AI 기반 보조 활용
+
+<br/>
+
+#### 🎓 Education
+
+- 🎓 계명대학교 컴퓨터공학과 (2023 ~ 2025)
+- 🎓 경일대학교 컴퓨터공학과 (2019 ~ 2023)
+- 🪖 대한민국 해병대 (2020 ~ 2021)
+
+<br/>
+
+#### 🔗 Links
+
+- GitHub: https://github.com/dbzoseh2rl
+- Blog: https://blog.naver.com/dbzoseh2rl123
+- Tistory: https://dokyung123.tistory.com
+- Velog: https://velog.io/@dbzoseh2rl
+
     </td>
-    <td align="right" width="50%">
-      <p>
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehrud25" style="display: inline-block; margin-right: 20px; width: 300px; height: auto;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbzoseh2rl" style="display: inline-block; width: 300px; height: auto;" />
-      </p>
-    </td>
+    <td width="45%" valign="top">
+
+### 🔧 Tech Stack
+
+**🤖 AI**  
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat_square&logo=Cursor&logoColor=white">
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat_square&logo=openai&logoColor=white">
+
+**💻 IDE**  
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat_square&logo=IntelliJIDEA&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat_square&logo=VisualStudioCode&logoColor=white">
+
+**⛏ Tool**  
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat_square&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat_square&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat_square&logo=Jira&logoColor=white">
+
+**🔥 Backend Stack**  
+<img src="https://img.shields.io/badge/Java-007396?style=flat_square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat_square&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat_square&logo=Hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/MyBatis-000000?style=flat_square&logoColor=white">
+
+**🌐 Infra & DevOps**  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=Linux&logoColor=black">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat_square&logo=AmazonAWS&logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat_square&logo=Nginx&logoColor=white">
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat_square&logo=RabbitMQ&logoColor=white">
+
+<br/>
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbzoseh2rl" />
+
   </tr>
 </table>
